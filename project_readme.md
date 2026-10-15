@@ -62,7 +62,17 @@ pip install opencv-python numpy ultralytics huggingface_hub
 2. Run the depth and object detection pipeline:
 
 ```
-python depth_est+object_detect.py
+python depth_est+object_detect.py<img width="1561" height="714" alt="results_" src="https://github.com/user-attachments/assets/7996c129-736b-4d64-b32d-a30c2061166b" />
+
 ```
 
 3. Press any key while the preview windows are active to close the application.
+
+## Results
+![Uploading results_.png…]()
+
+
+## Contact
+Name : Jash Jain
+Phone No. : 8097275568
+email : jjain0371@gmail.com
