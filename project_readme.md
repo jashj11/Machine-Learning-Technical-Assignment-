@@ -69,10 +69,11 @@ python depth_est+object_detect.py<img width="1561" height="714" alt="results_" s
 3. Press any key while the preview windows are active to close the application.
 
 ## Results
-![Uploading results_.png…]()
+<img width="1561" height="714" alt="results_" src="https://github.com/user-attachments/assets/c291e365-ed09-438b-b1a4-1598d29696e0" />
+
 
 
 ## Contact
-Name : Jash Jain
-Phone No. : 8097275568
+Name : Jash Jain, 
+Phone No. : 8097275568, 
 email : jjain0371@gmail.com
