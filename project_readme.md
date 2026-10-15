@@ -36,16 +36,8 @@ Where:
 * $B$ is the stereo baseline computed from the projection matrix translation components:
   
 
-  $$
-  B = \frac{\vert{}P_2[0,3] - P_3[0,3]\vert{}}{f_x}
-  $$
-
 * $d$ is the disparity in pixels derived from the raw SGBM output:
   
-
-  $$
-  d = \frac{\text{disp\_raw}}{16.0}
-  $$
 
 ## Requirements
 
